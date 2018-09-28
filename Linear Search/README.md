@@ -5,6 +5,6 @@ Linear Search algorithm is a straight-forward technique for searching. It looks 
 # Time Complexity Analysis
 
 Worst Case:
-The worst case is it have to look into every iteam of the sorted/unsorted list/array of size 'n' for the value. The algorithms runs a for loop and it depends on 'n'.
+The worst case is it have to look into the every item of list/array item of size 'n' for the value. The algorithms runs a for loop and it depends on 'n'.
 
 So, the worst case is: O(n)
