@@ -1,6 +1,6 @@
 # Linear Search
 
-Linear Search algorithm is a strait forward technique for searching. I looks for a value in a sorted or unsorted list/array one by one from the starting index to ending index. 
+Linear Search algorithm is a straight-forward technique for searching. It looks for a value in a sorted/unsorted list/array one by one from the starting index to ending index. 
 
 # Time Complexity Analysis
 
