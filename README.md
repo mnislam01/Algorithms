@@ -1,2 +1,2 @@
-# AlgorithmsAndDS
-Algorithms And Data Structures. Oh! What are those?
+# Algorithms And Data Structures
+## What? What are those?
