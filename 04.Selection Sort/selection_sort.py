@@ -1,5 +1,5 @@
 
-def insersion_sort(list_of_numbers) -> list():
+def selection_sort(list_of_numbers) -> list():
     """
     :params list_of_numbers: A list type object of integer numbers
     :return []:
@@ -23,6 +23,6 @@ if __name__ == "__main__":
     numbers = [23,7,2,8,43,6,78,2,7890,7,235346,23]
     print("Before sorting...")
     print(numbers)
-    insersion_sort(list_of_numbers=numbers)
+    selection_sort(list_of_numbers=numbers)
     print("After sorting...")
     print(numbers)

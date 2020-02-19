@@ -4,12 +4,12 @@ class selection_sort{
 
         System.out.println("Before sorting...");
         ShowArray(array);
-        array = InsersionSort(array);
+        array = selectionSort(array);
         System.out.println("After sorting...");
         ShowArray(array);
     }
 
-    public static int[] InsersionSort(int list_of_numbers[]){
+    public static int[] selectionSort(int list_of_numbers[]){
         int i, j, smallest, temp;
         for (i=0; i < list_of_numbers.length; i++){
             smallest = i;
