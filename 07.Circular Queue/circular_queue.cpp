@@ -39,6 +39,7 @@ class Queue{
             if (this->tail == this->head)
             {
                 cout << "Queue is Empty!" << endl;
+                return -1;
             }
             item = this->data[this->head];
             this->head = (this->head + 1) % (Q_SIZE + 1);
